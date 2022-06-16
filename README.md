@@ -98,6 +98,7 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[SIEMENS](https://www.linkedin.com/feed/update/urn:li:activity:6939878940022849536/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6939878940022849536%29)|Not Mentioned| Open - Deadline on June 30|
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern |  
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open | 
+|[VERO](https://www.linkedin.com/posts/ayaelsayed_copied-activity-6941494648540381184-lazH/) | Not Mentioned | Open - Game Developer - Frontend Intern Deadline on June 19|
 ## Collaborators
 We love our collaborators 💜💜
 
