@@ -81,58 +81,6 @@ Stack Info allows you to explore and find tech stacks used by startups and corpo
 |[VERO](https://www.linkedin.com/posts/ayaelsayed_copied-activity-6941494648540381184-lazH/) | Not Mentioned | Open - Game Developer - Frontend Intern Deadline on June 19|
 |[Zep Analytics Internship](https://docs.google.com/forms/d/e/1FAIpQLSeLknnCL4TGrgLmds5g-5Pt3H_OiXeJJWrM9Mb0i6rCTWfC0A/viewform)| Remote | Open- <b>Unpaid Intern, it can be Paid based on performance</b> - ML Intern |
 
-  
-
-## Closed Internships :card_file_box:
-
-| Name  |  Location |  Notes | status |
-|---|---|-------------|--|
-|[Algoriza](https://www.linkedin.com/company/algoriza/?originalSubdomain=eg) | Cairo |Closed|
-|[Acoustic](https://acoustic.com/) | Flexible Hybrid Model | Closed |
-|[Ahram security Group](https://www.ahramsg.com/) | Sharqia | Closed |
-|[ARPU PLUS](https://www.arpuplus.com/careers) |Giza - Egypt|Closed|
-|[ATLC Microsoft](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/) | Cairo | Closed |
-|[Atomica C++ Software Engineer internship](https://www.atomica.ai/?utm_term=atomica&utm_campaign=Atomica+%7C+Search+%7C+Branding+%7C+EG&utm_source=adwords&utm_medium=ppc&hsa_acc=8475630388&hsa_cam=16506637573&hsa_grp=137184961667&hsa_ad=586429669860&hsa_src=g&hsa_tgt=kwd-15509036&hsa_kw=atomica&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwmPSSBhCNARIsAH3cYgbV0nFWt1pn-N3o8Y9i7MymzulklqexcikMl8Dd0bGA__58PkSKB5gaAuk_EALw_wcB) | Cairo |Closed|
-|[Brightskies](https://brightskiesinc.com/careers/4/) | Alexandria | Closed |
-|[Cegedim](https://www.cegedim.com/Pages/default.aspx)| Cairo | Closed |
-|[Coformatique](https://www.coformatique.com/) | Cairo | Closed | 
-|[Dropbox software intern](https://www.dropbox.com/jobs/teams/emerging-talent)| Remote | Closed |
-|[Easy System](http://eysmt.com/)| Cairo | Closed |
-|[Edvora](https://www.edvora.com/careers/fullstack_intern)| Remote | Closed |
-|[EgSA](https://egsa-space-technology-portal.com/?AspxAutoDetectCookieSupport=1)| Cairo | Closed |
-|[EVA Pharma]( https://www.evapharma.com/ )| Cairo |  Closed |  
-|[Eventum](https://odoo.eventumsolutions.com/) | Alexandria | Closed |
-|[EYouth](https://www.linkedin.com/company/eyouth/?originalSubdomain=eg) | Giza |Closed|
-|[GirlScript Summer of Code OpenSource program](https://gssoc.girlscript.tech/) | Remote | Closed |
-|[Google Summer of Code](https://summerofcode.withgoogle.com/) | Remote | Closed |
-|[HackerRank Software intern](https://www.hackerrank.com/careers#app) | Remote |Closed|
-|[Hoopoe Digital](https://hoopoe.digital/?fbclid=IwAR3HCHVXSVdM2Z91hfy6z0gOI3OIb1PodTyXpiJQxdhJ7iSfcvNE8JP1Jmw) | Remote | Closed |
-|[IBM Technical support intern](https://www.ibm.com/employment/) | Cairo |Closed |
-|[Instabug](https://www.instabug.com/?fbclid=IwAR2PbAFqKTCb7NSN_kMxPFC5JFjjX59NtfWfDIha1GPX__4dsyWLtDp4Elo)| Cairo | Closed |  
-|[Itida](https://itida.gov.eg/English/Pages/default.aspx)| Cairo | Closed |  
-|[Jumia Software intern](https://group.jumia.com/careers/)| Cairo | Closed |
-|[LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Remote | Closed |
-|[Linkedin backend intern](https://careers.linkedin.com/students)| Worldwide | Closed |
-|[Master Micro software](https://www.master-micro.com/) | Remote | Closed |
-|[Outreachy](https://www.outreachy.org/)| Remote | Closed |
-|[Pinterest Software Engineer Intern](https://www.pinterestcareers.com/job-search-results/)| Dublin-Ireland | Closed |
-|[Raisa Energy Tech](https://raisaegypt.recruitee.com/) | Cairo-hybrid | Closed |
-|[Rubikal](https://apply.workable.com/rubikal/) | Remote | Closed |
-|[Shahry](https://shahry.app/careers/?jobId%5C=CKJmmcZN9dAP&jobId=CKJmmcZN9dAP) | Cairo |Closed|
-|[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo |Closed|   
-|[Sprints](http://www.sprints.ai) | Alexandria & Remote | Closed|
-|[Sumerge](https://www.sumerge.com/job-description/?jobID=87)| Cairo | Closed |
-|[Summer of Bitcoin](https://www.summerofbitcoin.org/)| Remote | Closed |
-|[synapse analytics](https://www.synapse-analytics.io/summer-internship)| Cairo |Closed|
-|[Tatbeek](https://www.tatbeek.com/ar/jobs) | Smart Village or Remotely | Closed |
-|[Terminix](https://corporate.terminix.com/careers/index.html)| Traditionally On-Site, may be Hybrid | Closed |
-|[Trella](https://www.trella.app/) | Cairo | Closed |
-|[Trianglz](https://www.trianglz.com/) | Alexandria | Closed | 
-|[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
-|[Vezeeta](https://careers.vezeeta.com/)| Cairo | Closed |
-|[Vodafone ](https://web.vodafone.com.eg/en/home?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlFGhmZ65p47ukG5i4TkDam1dEGzqjMmW34SRpKw4wOQ51omD4mU9DgaAvj6EALw_wcB) | Giza | Closed | 
-|[Webalo](https://www.webalo.com/careers/) | Alexandria | Closed |
-|[WebsOps](https://www.thewebops.com/) | Cairo | Closed |
 
 ## Applied
 | Name  |  Location |  Notes | status |
